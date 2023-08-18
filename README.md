@@ -5,4 +5,5 @@ We provide two types of ANN:
 * Neural Network without any hidden layer
 * Neural networks with one hidden layer
 the networks can be evaluated with provided datasets with 1-D inputs and 1-D.
+
 You can change the parameters to see the effects.
